@@ -18,7 +18,8 @@ worldmap.add('Random Data', {
     'jp'    : 54,
     'nz'    : 41,
     'kz'    : 32,
-    'us'    : 66
+    'us'    : 66,
+    'ng'    : 55
 })
 
 # Saving into the file
